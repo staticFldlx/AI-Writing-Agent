@@ -1,0 +1,2 @@
+customtkinter>=5.2
+# 打包用（仅开发机需要）：pyinstaller>=6.10

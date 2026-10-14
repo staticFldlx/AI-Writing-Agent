@@ -1,0 +1,22 @@
+# 打包产物
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 本地数据
+*.db
+*.log
+config.json
+context_cache.json
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
